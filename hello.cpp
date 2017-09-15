@@ -3,7 +3,7 @@
 void main()
 {
 int i;
-char a[6]="/nhello";
+char a[6]="hello";
 for(i=1;i<=5;i++)
-cout<<a;
+cout<<"/n"a;
 }
