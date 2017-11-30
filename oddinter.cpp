@@ -9,7 +9,7 @@ couu<<"enter the final interval value";
 cin>>y;
 n=x;
 cout<<"the odd numbers are between intervals ";
-while((n=<20)&&(n=>10))
+while((n=<y)&&(n=>x))
 {if(n%2!=0)
  {cout<<n;
  }
